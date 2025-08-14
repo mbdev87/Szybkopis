@@ -2,6 +2,8 @@
 
 **;PL** to narzędzie do szybkiego pisania polskich znaków diakrytycznych bez używania kombinacji Alt+klawisz. Bazuje na projekcie [Tajpi](https://github.com/CapacitorSet/tajpi) dostosowanym do języka polskiego.
 
+### Niebawem wersja na macOS - podobna do https://github.com/PumpedSardines/Tajpi 
+
 ## Jak to działa
 
 Aplikacja pozwala na szybkie wpisywanie polskich znaków diakrytycznych poprzez kombinacje z średnikiem:
